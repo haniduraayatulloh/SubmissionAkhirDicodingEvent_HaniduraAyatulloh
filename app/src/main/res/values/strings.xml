@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">DicodingEvent</string>
+    <string name="not_available">Tidak Tersedia</string>
+    <string name="loading">Memuat...</string>
+    <string name="register_button">Daftar Sekarang</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_upcoming">Aktif</string>
+    <string name="nav_finished">Selesai</string>
+    <string name="nav_favorite">Favorit</string>
+    <string name="nav_setting">Pengaturan</string>
+
+    <string name="settings_tab">Pengaturan</string>
+
+    <string name="home_welcome">Selamat Datang!</string>
+    <string name="home_subtitle">Temukan Event Menarik Terbaru</string>
+    <string name="search_hint">Cari nama event atau owner</string>
+    <string name="status_label">Status:</string>
+    <string name="status_label_upcoming">Status: Aktif</string>
+    <string name="status_label_finished">Status: Selesai</string>
+    <string name="status_no_events_found">Tidak ada acara yang ditemukan.</string>
+    <string name="time_unknown">Waktu tidak diketahui</string>
+
+    <string name="error_failed_to_load_data">Gagal memuat data. Periksa koneksi internet Anda atau coba lagi.</string>
+
+    <string name="event_image_description">Gambar sampul acara</string>
+
+    <string name="detail_title">Detail Acara</string>
+    <string name="error_no_event_id">ID Acara tidak ditemukan.</string>
+    <string name="error_event_not_found">Detail Acara tidak ditemukan.</string>
+    <string name="error_invalid_link">Link pendaftaran tidak valid.</string>
+
+    <string name="summary_title">Ringkasan</string>
+    <string name="description_full_title">Deskripsi Lengkap</string>
+
+    <string name="owner_format">Oleh: %s</string>
+    <string name="quota_unknown">Kuota: Tidak diketahui</string>
+    <string name="status_full">Status: Penuh</string>
+    <string name="status_active_quota">Sisa Kuota: %d</string>
+    <string name="quota_format">Daftar: %1$d/%2$d (Sisa: %3$d)</string>
+
+    <string name="favorite">Favorit</string>
+    <string name="favorite_tab">Favorit</string>
+    <string name="status_label_favorite">Status: Favorit</string>
+    <string name="status_no_favorites_found">Anda belum memiliki acara favorit.</string>
+    <string name="toast_added_to_favorite">Ditambahkan ke Favorit</string>
+    <string name="toast_removed_from_favorite">Dihapus dari Favorit</string>
+
+    <string name="settings_title">Pengaturan</string>
+    <string name="theme_title">Tema Aplikasi</string>
+    <string name="theme_summary">Pilih mode tampilan terang atau gelap</string>
+    <string name="pref_key_theme">theme_setting_key</string>
+
+    <string name="theme_system_value">-1</string>
+    <string name="theme_light_value">1</string>
+    <string name="theme_dark_value">2</string>
+
+    <string name="theme_system">Ikuti Sistem</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_dark">Gelap</string>
+
+    <string-array name="theme_entries">
+        <item>@string/theme_system</item>
+        <item>@string/theme_light</item>
+        <item>@string/theme_dark</item>
+    </string-array>
+
+    <string-array name="theme_values">
+        <item>@string/theme_system_value</item>
+        <item>@string/theme_light_value</item>
+        <item>@string/theme_dark_value</item>
+    </string-array>
+</resources>
